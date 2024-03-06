@@ -1,0 +1,187 @@
+,id,code,name_en,name_ko,translated
+0,1,aa,Afar,아파르어,0
+1,2,ab,Abkhazian,압하스어,0
+2,3,af,Afrikaans,아프리칸스어,0
+3,4,ak,Akan,아칸어,0
+4,5,sq,Albanian,알바니아어,0
+5,6,am,Amharic,암하라어,0
+6,7,ar,Arabic,아랍어,0
+7,8,an,Aragonese,아라곤어,0
+8,9,hy,Armenian,아르메니아어,0
+9,10,as,Assamese,아삼어,0
+10,11,av,Avaric,아바르어,0
+11,12,ae,Avestan,아베스타어,0
+12,13,ay,Aymara,아이마라어,0
+13,14,az,Azerbaijani,아제르바이잔어,0
+14,15,ba,Bashkir,바시키르어,0
+15,16,bm,Bambara,밤바라어,0
+16,17,eu,Basque,바스크어,0
+17,18,be,Belarusian,벨로루시어,0
+18,19,bn,Bengali,벵골어,0
+19,20,bh,Bihari languages,비하르어,0
+20,21,bi,Bislama,비슬라마,0
+21,22,bs,Bosnian,보스니아어,0
+22,23,br,Breton,브르타뉴어,0
+23,24,bg,Bulgarian,불가리아어,0
+24,25,my,Burmese,미얀마어,0
+25,26,ca,Catalan; Valencian,카탈루냐어,0
+26,27,ch,Chamorro,차모로어,0
+27,28,ce,Chechen,체첸어,0
+28,29,zh,Chinese,중국어,0
+29,30,cu,Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic,Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic,0
+30,31,cv,Chuvash,추바슈어,0
+31,32,kw,Cornish,콘월어,0
+32,33,co,Corsican,코르시카어,0
+33,34,cr,Cree,크리어,0
+34,35,cs,Czech,체코어,0
+35,36,da,Danish,덴마크어,0
+36,37,dv,Divehi; Dhivehi; Maldivian,디베히어,0
+37,38,nl,Dutch; Flemish,네덜란드어,0
+38,39,dz,Dzongkha,종카어,0
+39,40,en,English,영어,1
+40,41,eo,Esperanto,에스페란토어,0
+41,42,et,Estonian,에스토니아어,0
+42,43,ee,Ewe,에웨어,0
+43,44,fo,Faroese,페로스어,0
+44,45,fj,Fijian,피지어,0
+45,46,fi,Finnish,핀란드어,0
+46,47,fr,French,프랑스어,0
+47,48,fy,Western Frisian,프리지아어,0
+48,49,ff,Fulah,풀라어,0
+49,50,ka,Georgian,조지아어,0
+50,51,de,German,독일어,0
+51,52,gd,Gaelic; Scottish Gaelic,고이델어,0
+52,53,ga,Irish,아일랜드어,0
+53,54,gl,Galician,갈리시아어,0
+54,55,gv,Manx,맨어,0
+55,56,el,"Greek, Modern (1453-)",그리스어 (현대) (1453년 이후),0
+56,57,gn,Guarani,과라니어,0
+57,58,gu,Gujarati,구자라트어,0
+58,59,ht,Haitian; Haitian Creole,아이티어,0
+59,60,ha,Hausa,하우사어,0
+60,61,he,Hebrew,히브리어,0
+61,62,hz,Herero,헤레로어,0
+62,63,hi,Hindi,힌두어,0
+63,64,ho,Hiri Motu,히리 모투,0
+64,65,hr,Croatian,크로아티아어,0
+65,66,hu,Hungarian,헝가리어,0
+66,67,ig,Igbo,이그보어,0
+67,68,is,Icelandic,아이슬란드어,0
+68,69,io,Ido,이도,0
+69,70,ii,Sichuan Yi; Nuosu,쓰촨 이어,0
+70,71,iu,Inuktitut,이누이트어,0
+71,72,ie,Interlingue; Occidental,인테르링구어 (옥시덴탈),0
+72,73,ia,Interlingua (International Auxiliary Language Association),인테르링구아 (국제보조어협회),0
+73,74,id,Indonesian,인도네시아어,0
+74,75,ik,Inupiaq,이누피아크어,0
+75,76,it,Italian,이탈리아어,0
+76,77,jv,Javanese,자와어,0
+77,78,ja,Japanese,일본어,0
+78,79,kl,Kalaallisut; Greenlandic,그린란드어,0
+79,80,kn,Kannada,칸나다어,0
+80,81,ks,Kashmiri,카슈미르어,0
+81,82,kr,Kanuri,카누리어,0
+82,83,kk,Kazakh,카자흐어,0
+83,84,km,Central Khmer,중부 크메르어,0
+84,85,ki,Kikuyu; Gikuyu,키쿠유어,0
+85,86,rw,Kinyarwanda,르완다어,0
+86,87,ky,Kirghiz; Kyrgyz,키르기스어,0
+87,88,kv,Komi,코미어,0
+88,89,kg,Kongo,콩고어,0
+89,90,ko,Korean,한국어,0
+90,91,kj,Kuanyama; Kwanyama,콰냐마어,0
+91,92,ku,Kurdish,쿠르드어,0
+92,93,lo,Lao,라오어,0
+93,94,la,Latin,라틴어,0
+94,95,lv,Latvian,라트비아어,0
+95,96,li,Limburgan; Limburger; Limburgish,림뷔르흐어,0
+96,97,ln,Lingala,링갈라어,0
+97,98,lt,Lithuanian,리투아니아어,0
+98,99,lb,Luxembourgish; Letzeburgesch,룩셈부르크어,0
+99,100,lu,Luba-Katanga,루바카탕가어,0
+100,101,lg,Ganda,간다어,0
+101,102,mk,Macedonian,마케도니아어,0
+102,103,mh,Marshallese,마셜어,0
+103,104,ml,Malayalam,말라얄람어,0
+104,105,mi,Maori,마오리어,0
+105,106,mr,Marathi,마라티어,0
+106,107,ms,Malay,말레이어,0
+107,108,mg,Malagasy,말라가시어,0
+108,109,mt,Maltese,몰타어,0
+109,110,mo,Moldavian; Moldovan,몰도바어,0
+110,111,mn,Mongolian,몽골어,0
+111,112,na,Nauru,나우루어,0
+112,113,nv,Navajo; Navaho,나바호어,0
+113,114,nr,"Ndebele, South; South Ndebele",은데벨레어 (남),0
+114,115,nd,"Ndebele, North; North Ndebele",은데벨레어 (북),0
+115,116,ng,Ndonga,은동가어,0
+116,117,ne,Nepali,네팔어,0
+117,118,nn,"Norwegian Nynorsk; Nynorsk, Norwegian",뉘노리스크,0
+118,119,nb,"Bokmål, Norwegian; Norwegian Bokmål",보크몰,0
+119,120,no,Norwegian,노르웨이어,0
+120,121,ny,Chichewa; Chewa; Nyanja,니안자어,0
+121,122,oc,Occitan (post 1500),오크어 (1500년 이후),0
+122,123,oj,Ojibwa,오지브와어,0
+123,124,or,Oriya,오리야어,0
+124,125,om,Oromo,오로모어,0
+125,126,os,Ossetian; Ossetic,오세트어,0
+126,127,pa,Panjabi; Punjabi,펀자브어,0
+127,128,fa,Persian,페르시아어,0
+128,129,pi,Pali,팔리어,0
+129,130,pl,Polish,폴란드어,0
+130,131,pt,Portuguese,포르투갈어,0
+131,132,ps,Pushto; Pashto,파슈토어,0
+132,133,qu,Quechua,케추아어족,0
+133,134,rm,Romansh,로만슈어,0
+134,135,ro,Romanian,루마니아어,0
+135,136,rn,Rundi,룬디어,0
+136,137,ru,Russian,러시아어,0
+137,138,sg,Sango,상고어,0
+138,139,sa,Sanskrit,산스크리트어,0
+139,140,si,Sinhala; Sinhalese,싱할라어,0
+140,141,sk,Slovak,슬로바키아어,0
+141,142,sl,Slovenian,슬로베니아어,0
+142,143,se,Northern Sami,사미어 (북),0
+143,144,sm,Samoan,사모아어,0
+144,145,sn,Shona,쇼나어,0
+145,146,sd,Sindhi,신디어,0
+146,147,so,Somali,소말리아어,0
+147,148,st,"Sotho, Southern",소토어 (남),0
+148,149,es,Spanish; Castilian,스페인어,0
+149,150,sc,Sardinian,사르데냐어,0
+150,151,sr,Serbian,세르비아어,0
+151,152,ss,Swati,스와티어,0
+152,153,su,Sundanese,순다어,0
+153,154,sw,Swahili,스와힐리어,0
+154,155,sv,Swedish,스웨덴어,0
+155,156,ty,Tahitian,타히티어,0
+156,157,ta,Tamil,타밀어,0
+157,158,tt,Tatar,타타르어,0
+158,159,te,Telugu,텔루구어,0
+159,160,tg,Tajik,타지크어,0
+160,161,tl,Tagalog,타갈로그어,0
+161,162,th,Thai,타이어,0
+162,163,bo,Tibetan,티베트어,0
+163,164,ti,Tigrinya,티그리냐어,0
+164,165,to,Tonga (Tonga Islands),통가어 (통가 제도),0
+165,166,tn,Tswana,츠와나어,0
+166,167,ts,Tsonga,총가어,0
+167,168,tk,Turkmen,투르크멘어,0
+168,169,tr,Turkish,터키어,0
+169,170,tw,Twi,알칸어군,0
+170,171,ug,Uighur; Uyghur,위구르어,0
+171,172,uk,Ukrainian,우크라이나어,0
+172,173,ur,Urdu,우르두어,0
+173,174,uz,Uzbek,우즈베크어,0
+174,175,ve,Venda,벤다어,0
+175,176,vi,Vietnamese,베트남어,0
+176,177,vo,Volapük,볼라퓌크,0
+177,178,cy,Welsh,웨일스어,0
+178,179,wa,Walloon,왈론어,0
+179,180,wo,Wolof,월로프어,0
+180,181,xh,Xhosa,코사어,0
+181,182,yi,Yiddish,이디시어,0
+182,183,yo,Yoruba,요루바어,0
+183,184,za,Zhuang; Chuang,좡어,0
+184,185,zu,Zulu,줄루어,0
+185,186,__,I prefer not to answer,,0

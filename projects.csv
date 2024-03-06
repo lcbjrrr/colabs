@@ -1,0 +1,37 @@
+,id,name,description,course_id,created_at,updated_at,start_dow,end_dow,active,start_date,end_date,factor_pack_id,style_id,anon_name
+0,3,Norway Accounting Assistant I,,4,2017-03-11 15:13:19,2023-01-11 21:46:25,5,1,0,2017-03-12 18:00:00,2017-06-20 14:59:59,1,2,Norway Accounting Assistant I
+1,4,Mexico Senior Cost Accountant,,2,2017-03-14 06:29:21,2023-01-11 21:46:25,5,1,0,2017-03-13 12:00:00,2017-06-20 14:59:59,1,2,Mexico Senior Cost Accountant
+2,5,Cook Islands Project Manager,,3,2017-03-14 06:42:28,2023-01-11 21:46:25,4,1,0,2017-03-13 21:00:00,2017-06-20 14:59:59,1,2,Cook Islands Project Manager
+3,6,Sri Lanka Editor,This is for the Student Design Competition entry for CHI 2018,7,2017-09-12 14:51:53,2023-01-11 21:46:25,5,1,0,2017-09-11 15:00:00,2017-12-22 14:59:59,1,2,Sri Lanka Editor
+4,7,Spain Senior Financial Analyst,This project strives to redesign a SUNY Korea website and author an IJDL design case as documentation.,7,2017-09-12 14:54:41,2023-01-11 21:46:25,5,1,0,2017-09-11 15:00:00,2017-12-08 14:59:59,2,2,Spain Senior Financial Analyst
+5,8,Spain Environmental Specialist,,8,2017-09-13 03:06:00,2023-01-11 21:46:25,5,1,0,2017-09-12 15:00:00,2017-12-12 14:59:59,1,2,Spain Environmental Specialist
+6,9,University of Phoenix Stadium Analyst Programmer,,9,2017-09-13 05:55:36,2023-01-11 21:46:25,5,1,0,2017-09-12 15:00:00,2017-12-12 14:59:59,1,2,University of Phoenix Stadium Analyst Programmer
+7,10,Iraq Research Assistant III,Recommendation report & application software development,13,2018-02-26 12:46:11,2023-01-11 21:46:25,5,1,0,2018-03-19 15:00:00,2018-06-15 14:59:00,1,2,Iraq Research Assistant III
+8,11,Yugoslavia Senior Quality Engineer,This covers your group work on both your game design and game redesign projects.,14,2018-02-26 12:57:18,2023-01-11 21:46:25,5,1,0,2018-03-19 15:00:00,2018-06-16 14:59:00,1,2,Yugoslavia Senior Quality Engineer
+9,12,Try-N-Save Account Coordinator,"10 vocabulary words with definition, sentence and pos *second assignment - students didnt respond",23,2018-07-13 19:21:45,2023-01-11 21:46:25,3,0,0,2018-06-11 07:00:00,2018-08-30 06:59:00,3,2,Try-N-Save Account Coordinator
+10,13,The Casino Royale Executive Secretary,Inside Out and Back Again,23,2018-08-07 01:28:02,2023-01-11 21:46:25,2,4,0,2018-06-10 07:00:00,2018-09-02 06:59:00,3,2,The Casino Royale Executive Secretary
+11,14,Jamaica Research Nurse,,26,2018-08-29 05:35:22,2023-01-11 21:46:25,5,1,0,2018-09-12 15:00:00,2018-12-15 14:59:00,1,2,Jamaica Research Nurse
+12,17,Afghanistan Structural Engineer,,16,2018-09-11 13:30:35,2023-01-11 21:46:25,3,5,0,2018-09-01 04:00:00,2019-01-01 04:59:00,1,2,Afghanistan Structural Engineer
+13,18,Starfleet Headquarters Technical Writer,Weekly evaluation,30,2018-09-11 14:28:20,2023-01-11 21:46:25,0,3,0,2018-09-03 04:00:00,2018-12-13 04:59:00,1,2,Starfleet Headquarters Technical Writer
+14,19,King Toots Senior Quality Engineer,,29,2018-09-14 03:01:55,2023-01-11 21:46:25,0,2,0,2018-09-12 15:00:00,2018-12-15 14:59:00,1,2,King Toots Senior Quality Engineer
+15,20,Barbados Pharmacist,,24,2018-10-08 01:17:48,2023-01-11 21:46:25,5,1,0,2018-10-23 04:00:00,2018-12-14 04:59:00,1,2,Barbados Pharmacist
+16,21,Sweden Director of Sales,,31,2019-02-22 04:35:24,2023-01-11 21:46:25,5,1,0,2019-03-17 15:00:00,2019-06-16 14:59:00,1,2,Sweden Director of Sales
+17,22,Reliant Stadium Internal Auditor,,32,2019-02-22 04:47:11,2023-01-11 21:46:25,5,1,0,2019-03-25 15:00:00,2019-06-16 14:59:00,1,2,Reliant Stadium Internal Auditor
+18,23,Puerto Rico VP Product Management,,34,2019-08-24 19:50:35,2023-01-11 21:46:25,5,1,0,2019-09-23 04:00:00,2019-12-07 04:59:00,1,2,Puerto Rico VP Product Management
+19,24,Loony Land Senior Editor,,36,2019-08-24 20:30:57,2023-01-11 21:46:26,5,1,0,2019-09-22 04:00:00,2019-12-07 04:59:00,1,2,Loony Land Senior Editor
+20,25,Angola Registered Nurse,,33,2019-08-26 19:01:51,2023-01-11 21:46:26,5,1,0,2019-09-14 04:00:00,2019-12-07 04:59:00,1,2,Angola Registered Nurse
+21,26,Gillette Stadium Physical Therapy Assistant,,35,2019-08-26 19:14:08,2023-01-11 21:46:26,5,1,0,2019-09-09 04:00:00,2019-12-07 04:59:00,1,2,Gillette Stadium Physical Therapy Assistant
+22,27,Benin Sales Associate,This is test project 1,37,2019-10-24 20:37:48,2023-01-11 21:46:26,5,1,0,2019-10-24 04:00:00,2020-03-01 04:59:00,2,2,Benin Sales Associate
+23,28,Washington Monument Staff Accountant I,,38,2020-01-31 20:30:55,2023-01-11 21:46:26,5,1,0,2020-02-03 05:00:00,2020-05-08 03:59:00,1,2,Washington Monument Staff Accountant I
+24,29,Krusty Krab Compensation Analyst,,41,2020-08-19 17:13:50,2023-01-11 21:46:26,5,1,0,2020-09-03 04:00:00,2020-12-05 04:59:00,1,2,Krusty Krab Compensation Analyst
+25,30,French Southern Territories Marketing Manager,,40,2020-08-19 17:15:48,2023-01-11 21:46:26,5,1,0,2020-09-04 04:00:00,2020-12-05 04:59:00,1,2,French Southern Territories Marketing Manager
+26,31,Malaysia Account Coordinator,,42,2020-08-19 17:18:23,2023-01-11 21:46:26,5,1,0,2020-09-02 04:00:00,2020-12-05 04:59:00,1,2,Malaysia Account Coordinator
+27,32,Saint Pierre and Miquelon Technical Writer,,43,2021-01-23 20:58:05,2023-01-11 21:46:26,5,1,0,2021-02-20 05:00:00,2021-05-11 03:59:00,1,2,Saint Pierre and Miquelon Technical Writer
+28,33,EverBank Field Recruiting Manager,,44,2021-01-23 20:59:52,2023-01-11 21:46:26,5,1,0,2021-02-21 05:00:00,2021-05-11 03:59:00,1,2,EverBank Field Recruiting Manager
+29,34,Moes Tavern Developer II,,45,2021-01-25 02:34:01,2023-01-11 21:46:26,5,1,0,2021-02-08 05:00:00,2021-04-27 03:59:00,1,2,Moes Tavern Developer II
+30,35,Reliant Stadium Account Representative IV,"You will design and teach lessons on the topics of the \""Age of Exploration\"" unit plan. You will design three lessons to show mastery of the lesson plan design and skills of teaching different types of lessons (direct, inquiry, and cooperative learning). You will collaborate on the lesson plan design. It is up to your group decision of how you will share the responsibilities. Each of you is expected to contribute to the fieldwork project. The project starts now!",47,2021-08-04 16:24:37,2023-01-11 21:46:26,5,1,0,2021-09-21 04:00:00,2021-12-11 04:59:00,1,2,Reliant Stadium Account Representative IV
+31,36,1938 Sullivan Assistant Manager,,48,2021-08-16 17:21:52,2023-01-11 21:46:26,1,5,0,2021-08-11 04:00:00,2021-09-12 03:59:00,1,2,1938 Sullivan Assistant Manager
+32,37,The Bates Hotel Project Manager,,49,2021-08-20 17:30:35,2023-01-11 21:46:26,5,1,0,2021-08-20 04:00:00,2021-09-21 03:59:00,1,2,The Bates Hotel Project Manager
+33,38,Reliant Stadium Accounting Assistant III,,50,2021-08-21 03:11:56,2023-01-11 21:46:26,5,1,0,2021-09-16 04:00:00,2021-12-11 04:59:00,1,2,Reliant Stadium Accounting Assistant III
+34,40,Netherlands Accounting Assistant II,,52,2021-08-23 04:12:54,2023-01-11 21:46:26,5,1,0,2021-09-16 04:00:00,2021-12-11 04:59:00,1,2,Netherlands Accounting Assistant II
+35,41,Chile Health Coach II,,51,2021-08-30 23:11:59,2023-01-11 21:46:26,5,1,0,2021-09-22 04:00:00,2021-12-12 04:59:00,1,2,Chile Health Coach II
